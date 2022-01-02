@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anirudh Eyyani</h1>
-<h3 align="center">Learning something new everyday⚡️</h3>
+<h3 align="center">⚡️Learning something new everyday⚡️</h3>
 
 - 🔭 I’m currently working on [a project called FURVENZI](https://github.com/AnirudhEyyani/Furvenzi)
 
-- 🌱 I’m currently learning **Kotlin and React.Js**
+- 🌱 I’m currently learning **Flutter and React.Js**
 
-- 💬 Ask me about **Front-end Developement and UI Design**
+- 💬 Ask me about **Front-end Developement and PWA's and UI Design and Web-Comps**
 
 - 📫 How to reach me **anirudheyyani@gmail.com**
 
-- ⚡ Fun fact **I think humans make their lives more complex that it actually is(Sometimes😬)**
+- ⚡ Fun fact **I think humans make their lives more complex that it actually is (always😬)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
