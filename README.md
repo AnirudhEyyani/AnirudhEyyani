@@ -22,7 +22,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
-   <a href="https://github.com/AnirudhEyyani"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnirudhEyyai&theme=react-dark"</a>
+   <a href="https://github.com/AnirudhEyyani"><img alt="Anirudh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnirudhEyyani&theme=react-dark" alt="AnirudhEyyani"</a>
   <br/>
 </details>
 
