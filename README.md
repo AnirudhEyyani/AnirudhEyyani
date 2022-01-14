@@ -1,5 +1,30 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anirudh Eyyani</h1>
+<h1 align="center">Hi, I'm Anirudh Eyyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">⚡️Learning something new everyday⚡️</h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AnirudhEyyani&label=Vistors%20count&color=0e75b6&style=plastic" alt="AnirudhEyyani" /> </p>
+
+## 📊 Github Stats 
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhEyyani&theme=algolia" alt="AnirudhEyyani"/></p>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anirudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnirudhEyyani&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirudhEyyani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AnirudhEyyani" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity </b></summary>
+  <br/>
+   <a href="https://github.com/AnirudhEyyani"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnirudhEyyai&theme=react-dark"</a>
+  <br/>
+</details>
 
 - 🔭 I’m currently working on [a project called FURVENZI](https://github.com/AnirudhEyyani/Furvenzi)
 
