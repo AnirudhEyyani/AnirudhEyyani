@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anirudh Eyyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">⚡️Learning something new everyday⚡️</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=AnirudhEyyani&label=Vistors%20count&color=0e75b6&style=plastic" alt="AnirudhEyyani" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AnirudhEyyani&label=Visitors%20count&color=0e75b6&style=plastic" alt="AnirudhEyyani" /> </p>
 
 ## 📊 Github Stats 
 
