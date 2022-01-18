@@ -8,24 +8,22 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhEyyani&theme=algolia" alt="AnirudhEyyani"/></p>
 
-<details> 
+<p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anirudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnirudhEyyani&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirudhEyyani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AnirudhEyyani" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirudhEyyani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AnirudhEyyani" height="192px"/>
   <br/>
   </p>
-</details>
+</p>
 
-<details>
+<p>
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
    <a href="https://github.com/AnirudhEyyani"><img alt="Anirudh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnirudhEyyani&theme=react-dark" alt="AnirudhEyyani"</a>
   <br/>
-</details>
+</p>
 
 - 🌐 Here is my [Portfolio](https://anirudheyyani.github.io/Portfolio/)
 	
