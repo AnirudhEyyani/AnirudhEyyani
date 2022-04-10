@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anirudh Eyyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey There, I'm Anirudh Eyyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">⚡️Learning something new everyday⚡️</h3>
 <p align="center"> <a href="https://twitter.com/AnirudhEyyani" target="blank"><img src="https://img.shields.io/twitter/follow/AnirudhEyyani?logo=twitter&style=for-the-badge" alt="AnirudhEyyani" /></a> </p>
 
