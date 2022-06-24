@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/AnirudhEyyani/AnirudhEyyani/main/images/cover-anirudh.png" alt="AnirudhEyyani"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AnirudhEyyani/AnirudhEyyani/main/images/cover-anirudh.png" alt="Start-Banner"/></p>
 <h1 align="center">Hey There, I'm Anirudh Eyyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">⚡️Learning something new everyday⚡️</h3>
 <p align="center"> <a href="https://twitter.com/AnirudhEyyani" target="blank"><img src="https://img.shields.io/twitter/follow/AnirudhEyyani?logo=twitter&style=for-the-badge" alt="AnirudhEyyani" /></a> </p>
@@ -72,3 +72,5 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc-1.svg" alt="premiere" width="40" height="40"/> </a>	
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>	
     </p>	
+
+<p align="center"><img src="https://raw.githubusercontent.com/AnirudhEyyani/AnirudhEyyani/main/images/header.png" alt="End-Banner"/></p>
