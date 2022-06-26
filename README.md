@@ -41,7 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-eyyani-3036671ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-eyyani-3036671ba" height="30" width="40" /></a>
-<a href="https://instagram.com/theanirudheyyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theanirudheyyani" height="30" width="40" /></a>
+<a href="https://instagram.com/anirudheyyani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theanirudheyyani" height="30" width="40" /></a>
 <a href="https://twitter.com/AnirudhEyyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnirudhEyyani" height="30" width="40" /></a>	
 <a href="https://dribbble.com/anirudheyyani2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anirudheyyani2002" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/8fFD39zD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8fFD39zD" height="30" width="40" /></a>
