@@ -71,6 +71,12 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>	
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc-1.svg" alt="premiere" width="40" height="40"/> </a>	
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>	
-    </p>	
+    </p>
+    
+### Chillaxx   
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default" /></div>  
+
+<br/>      
 
 <p align="center"><img src="https://raw.githubusercontent.com/AnirudhEyyani/AnirudhEyyani/main/images/header.png" alt="End-Banner"/></p>
